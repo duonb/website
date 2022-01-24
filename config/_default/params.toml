@@ -1,0 +1,56 @@
+# Meta Data for SEO
+
+## Homepage
+title = "DuoNB Alliance"
+logo = "/images/duonb-header-logo.svg"
+titleSeparator = "-"
+titleAddition = "Build your smart appliances on open source narrow band technologies."
+description = "Let's start with DuoNB - Duo Narrow Band"
+
+## Open Graph + Twitter Cards
+images = ["/images/duonb-logo-square.png", "/images/duonb-header-logo.svg"]
+twitterSite = "duonballiance"
+twitterCreator = "duonballiance"
+#facebookAuthor = "duonballiance"
+#facebookPublisher = "duonballiance"
+ogLocale = "en_US"
+
+## JSON-LD
+schemaType = "Organization"
+schemaLogo = "/images/duonb-logo-square.png"
+schemaTwitter = "https://twitter.com/duonballiance"
+schemaLinkedIn = "https://www.linkedin.com/duonballiance"
+schemaGitHub = "https://github.com/duonb"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+
+# Alert
+alert = false
+alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+
+# Edit Page
+docsRepo = "https://github.com/duonb/website"
+editPage = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = false
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false

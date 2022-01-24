@@ -1,0 +1,56 @@
+# couldn't get the nested menus to work ...
+# header / footer: header: Members (features) Events (blog) Community Blog Contact FAQ
+
+[[categories]]
+  name = "DuoNB <i class=\"bi bi-stack\"></i>"
+
+[[categories.entries]]
+  name = "Events"
+  url = "/events"
+
+[[categories.entries]]
+  name = "Community"
+  url = "/community"
+
+[[categories.entries]]
+  name = "Members"
+  url = "/members"
+
+[[categories.entries]]
+  name = "Blog"
+  url = "/blog"
+
+#[[categories.entries]]
+#  name = "Jobs"
+#  url = "/jobs"
+
+[[categories.entries]]
+  name = "Contact"
+  url = "/contact"
+
+#[[categories.entries]]
+#  name = "FAQ"
+#  url = "/faq"
+
+[[categories]]
+  name = "Resources"
+
+[[categories.entries]]
+  name = "GitHub"
+  url = "https://github.com/duonb"
+
+#  [[categories.entries]]
+# name = "App"
+#  url = "https://app.duonb.org"
+
+#  [[categories.entries]]
+#  name = "Pricing"
+#  url = "/pricing"
+
+#  [[categories.entries]]
+#  name = "DockerHub"
+#  url = "https://hub.docker.com/u/duonb"
+
+#  [[categories.entries]]
+#  name = "Docs"
+#  url = "/docs"

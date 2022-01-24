@@ -1,0 +1,262 @@
+{{ define "main" }}
+<section class="section container-fluid mt-n3 pb-3">
+  <div class="row justify-content-center">
+    <div class="col-lg-12 text-center">
+      <h1 class="mt-0"><img src="/images/duonb-logo-square.svg" alt="DuoNB Logo" style="max-width: 120px" class="mb-4"> {{ .Title }}</h1>
+    </div>
+    <div class="col-lg-9 col-xl-8 text-center">
+      <p class="lead">{{ .Params.lead | safeHTML }}</p>
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col text-center">
+      <div class="mb-4">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://github.com/duonb/" data-text="DuoNB - Build your smart appliances on open source narrow band technologies.">Tweet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <!--
+        <iframe src="https://ghbtns.com/github-btn.html?user=localstack&amp;repo=localstack&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100" height="20" style="margin-left: 10px"></iframe>
+        <iframe src="https://ghbtns.com/github-btn.html?user=localstack&amp;repo=localstack&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100" height="20"></iframe>-->
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-prefooter" }}
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-8 col-sm-7 col-md-5 col-lg-4">
+        <img src="/images/icons/flash.png" style="max-width: 50px" class="mb-3">
+        <p>Enable efficient product development. Build your 1st prototype in weeks.</p>
+      </div>
+      <div class="col-8 col-sm-7 col-md-5 col-lg-4">
+        <img src="/images/icons/money.png" style="max-width: 50px" class="mb-3">
+        <p>Cost savings for dev teams and manufactureres of all sizes.</p>
+      </div>
+      <div class="col-8 col-sm-7 col-md-5 col-lg-4">
+        <img src="/images/icons/ci.png" style="max-width: 50px" class="mb-3">
+        <p>Enable combinatorial innovation through community collaboration.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-md section-alt">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col col-md-3 col-lg-3">
+        <span style="font-size: 2.2rem">20+</span><br>
+        Members
+      </div>
+      <div class="col col-md-3 col-lg-3">
+        <span style="font-size: 2.2rem">50+</span><br>
+        Lark/Feishu members
+      </div>
+      <div class="col col-md-3 col-lg-3">
+        <span style="font-size: 2.2rem">10+</span><br>
+        Community topics & calls
+      </div>
+      <!--
+      <div class="col col-md-4 col-lg-3">
+        <span style="font-size: 2.2rem">38,000+</span><br>
+        GitHub stars
+      </div>
+      <div class="col col-md-3 col-lg-3">
+        <span style="font-size: 2.2rem">73,000,000+</span><br>
+        Docker Pulls
+      </div>-->
+    </div>
+  </div>
+</section>
+
+<section class="section section-sm container">
+  <div class="row justify-content-center">
+    <div class="col-lg-10">
+      <h2 class="h2 text-center">What is DuoNB?</h2>
+      <p>DuoNB is an open source software toolkits (under incubation) for building connected appliances, such as smart lighting controllers, that are running on Narrow Band networking protocols such as <a href="https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-6" target="_blank">Wi-Fi 6</a> (<a href="https://www.commscope.com/blog/2018/802.11ax-fundamentals-target-wake-time-twt/" target="_blank">TWT - Target Wait Time</a>) or <a href="https://en.wikipedia.org/wiki/PLCBUS#Advantages" target="_blank">PLCBus</a>. It is also an industrial alliance and community for partners in appliance product ecosystem who share the same vision on innovation by adhering to the <b>DuoPlus Principles</b> on connected product design.
+      </p>
+      <h3 class="h3 text-center">Thesis</h3>
+      <p>Open collaboration on tech and product development has proven to be the catalysts for more innovations and entrepreneurship. In China's context, chip makers, product and service companies in smart home industries have reached more consensus than ever before on what and how is innovation happening so that the ecosystem as a whole can capture more consumer demands by open collaboration.</p>
+      <p>DuoNB by itself is a series of software, firmware, open hardware and developer tools that appliance makers on which they can customize their products, so that their ideas can be turned into products or services faster and with lower cost in R&D.</p>
+      <p>Centered around DuoNB's open source tech and tools, we're building a public channel for ecosystem partners to learn from each other, share insights, and form new partnerships.</p>
+
+      <h3 id="duoplus-principles" class="h3 text-center">DuoPlus Principles</h3>
+      <p>There are 3 design principles for building apps on DuoNB, which we call the <i>DuoPlus Principles</i> on connected product design.</p>
+        <ol>
+          <li><b>Off-cloud First Design</b></br>Product or service built upon DuoNB shall be "Off-cloud First", and only connected to the cloud on user's permission and out of necessity for tech support, problem diagnosis or regulatory compliance.</li>
+          <li><b>Minimal Data Collection</b></br>User's data protected by laws shall be collected at a minimum so that both user value and product features are realized with proper balance, and a product's data privacy design is more likely compliant.</li>
+          <li><b>Open Source as Go-to-Market</b></br>Few individual developers or businesses in China are doing open source work for its own sake. Successful open source projects as go-to-market strategy are on the rise. We at DuoNB community advocate and help product makers or service providers formulate their open source business models. This is THE substainable way forward as on how the industries embrace open source.</li>
+        </ol>
+      <p><blockquote>What are binding us together as a community are the above principles under which connected products should be built. So that we, as human beings, can build connected products that are safer, fairer to use, and more substainable for the spaces where we live and work.</blockquote></p>
+      <!-- <p>
+        <img style="width: 100%" src="/images/diagram.png">
+      </p>
+      <p>
+        <b>Our makers love it</b>. Check out the
+        <a href="https://github.com/orgs/duonb/repositories">DuoNB projects at Github</a>, or search on
+        <a href="https://twitter.com/search?q=duonballiance">Twitter</a>/<a
+          href="https://www.bing.com/search?q=duonb+alliance">Bing</a>
+          to find out what people have to say about DuoNB. It's the effective way of developing smart appliances on narrow band networking stack!
+      </p> -->
+      
+      <!-- feature carousel title
+      <h2 class="h2 text-center">Featured Products</h2>
+      <p class="text-center">
+        Open source products ready for your request for custom build
+      </p> --> 
+      <!-- feature carousel 
+      <div id="featureCarousel" class="featureCarousel carousel carousel-dark slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+          <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+          <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+          <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+        </div>
+        <div class="carousel-inner"> 
+          {{ partial "misc/feature-carousel-item.html" (dict
+            "active" "active"
+            "image" "/images/members/dynamodb.png"
+            "label" "DynamoDB Tables"
+            "descr" "Querying DynamoDB items becomes a breeze")
+          }}
+          {{ partial "misc/feature-carousel-item.html" (dict
+            "image" "/images/members/lambda.png"
+            "label" "Lambda"
+            "descr" "Interactively search and debug Lambda logs")
+          }}
+          {{ partial "misc/feature-carousel-item.html" (dict
+            "image" "/images/members/cognito.png"
+            "label" "Cognito"
+            "descr" "Manage your Cognito user pools and user attributes")
+          }}
+          {{ partial "misc/feature-carousel-item.html" (dict
+            "image" "/images/members/apigateway.png"
+            "label" "API Gateway"
+            "descr" "Navigate API Gateways and directly run test invocations from the browser")
+          }}
+          {{ partial "misc/feature-carousel-item.html" (dict
+            "image" "/images/members/cloudformation.png"
+            "label" "Cloud Formation"
+            "descr" "Edit CloudFormation templates and trigger stack creation")
+          }}
+          {{ partial "misc/feature-carousel-item.html" (dict
+            "image" "/images/members/stepfunctions.png"
+            "label" "StepFunctions"
+            "descr" "Visually inspect and debug your StepFunctions state machines")
+          }}
+          {{ partial "misc/feature-carousel-item.html" (dict
+            "image" "/images/members/ssm.png"
+            "label" "System Parameters"
+            "descr" "Easily set SSM parameters to configure your system")
+          }}
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#featureCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#featureCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>-->
+      <!-- /feature carousel -->
+
+    </div>
+  </div>
+</section>
+
+<!--
+<section class="section section-md container">
+  <h2 class="h2 text-center">DuoNB is trusted by xxxx of makers worldwide</h2>
+  <div class="row justify-content-center text-center mt-5">
+    <div class="col-lg-10">
+      <div class="row">
+        {{ range .Site.Data.customers -}}
+        <div class="col customer-logo mb-4">
+          <a href="{{ .url }}" target="_blank">
+            <img src="{{ .logo }}" style="max-height: 80px">
+          </a>
+        </div>
+        {{ end -}}
+      </div>
+    </div>
+
+  </div>
+</section>-->
+
+
+<section class="section section-md container pt-0">
+  <h2 class="h2 text-center">Who are with DuoNB Alliance <span class="h4"><i class="bi bi-heart-fill"></i></span></h2>
+  <div class="row justify-content-center text-center mt-2">
+    <div class="col-lg-10">
+      <div class="row">
+        <p>
+          At DuoNB, we're committed to supporting community members' success!
+        </p>
+        <p>Alliance members frequently contribute engineering hours, open source code & hardware design, and support academic, student, or sister open source projects and non-profit organizations.
+        </p>
+        <p>
+          A growing a list of DuoNB Alliance members and ecosystem partners,
+        </p>
+        {{ range .Site.Data.community -}}
+        <div class="col customer-logo mb-4">
+          <a href="{{ .url }}" target="_blank">
+            <img src="{{ .logo }}" style="max-height: 80px">
+          </a>
+        </div>
+        {{ end -}}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-md section-alt">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <h2 class="h2 text-center">Stay tuned with DuoNB</h2>
+          <div class="row justify-content-center text-center mt-2">
+            <div class="col-lg-16">
+              <div class="row">
+                <p>If you have any questions or feedback, please shoot us a message at <a href="mailto:info@duonb.org">info@duonb.org</a></p>
+                <p>Or, subscribe to our newsletter to stay tuned for the latest news or community events.</p>
+              </div>
+           </div>
+          </div>
+
+        <div class="center text-center">
+          <div class="row justify-content-center">
+            <div class="col-lg-10">
+            <form action="https://buttondown.email/api/emails/embed-subscribe/duonb" method="post" target="popupwindow"onsubmit="window.open('https://buttondown.email/duonb', 'popupwindow')" class="embeddable-buttondown-form">
+              <label for="bd-email">Enter your email</label>
+              <input type="email" name="email" id="bd-email" />
+              <input type="submit" class="btn btn-primary" value="Subscribe" />
+              <p>
+              </p>
+            </form>
+              <!--
+              <form class="center text-center validate" action="https://github.us16.list-manage.com/subscribe/post?u=988d9bf9ad8ad389bde9e2c6d&amp;id=7daf893897" method="post" target="_blank" novalidate>
+                <div class="input-group mb-3">
+                  <input type="email" class="form-control email" name="EMAIL" id="mce-EMAIL" placeholder="email address" aria-label="email address" aria-describedby="basic-addon2">
+                  <input type="hidden" name="b_988d9bf9ad8ad389bde9e2c6d_7daf893897" tabindex="-1" value=""/>
+                  <div class="input-group-append">
+                    <button class="btn btn-primary" type="submit" name="subscribe">Subscribe</button>
+                  </div>
+                </div>
+              </form>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-footer" }}
+{{- .Content -}}
+{{ end }}
