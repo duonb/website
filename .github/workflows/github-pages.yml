@@ -23,9 +23,8 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Build
-        run: npm ci
-        run: hugo --gc --minify
+      - run: npm ci
+      - run: hugo --gc --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
