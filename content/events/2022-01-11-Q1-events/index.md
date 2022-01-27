@@ -10,19 +10,33 @@ contributors: ["Chance Jiang"]
 
 # 2022 Q1 Events Listing
 
-## Febuary, 2022
+Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 
-| Date/Time | Event Topics | Join call or recordings |
+## Febuary, 2022
+| Date/Time | Product Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| 14:00pm GMT+8, </br>Feb 24, 2022 | “DuoNB, the Emerging Web3 Infrastructure for Narrow Band Networking" | To be hosted on [*Lark*](https://larksuite.com) |
-| (More to come, please subscribe to our newsletter to stay tuned.) |
+| 14:00, Feb 17 | “Bootstrapping Web3 mobile apps by DuoNB principles with </br>ifanr Cloud" | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| -----------| (More to come...) | 
+
+| Date/Time | Industrial Event Topics | Join call or view recordings |
+| ----------- | ----------- | ----------- |
+| 14:00, Feb 24 | “Introducing DuoNB, the Web3 Tech Alliance on Narrow Band </br>Networks" | To be hosted by UIH, DuoTech, on [*Lark*](https://larksuite.com) |
+| -----------| (More to come...) | 
 
 
 ## March, 2022
-
-| Date/Time | Event Topics | Join call or recordings |
+| Date/Time | Product Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| (More to come, please subscribe to our newsletter to stay tuned.) |
+| 14:00,  March XX | “Introducing the DuoPlus Principles for Web3 app design with </br>ifanr Cloud" | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| 14:00, March XX | “What is *Off-cloud-first* app design?" | To be hosted by ifanr.com |
+| 14:00, March XX | “How to implement *Privacy-first* design with ifanr Cloud" | To be hosted by ifanr.com |
+| 14:00, March XX | “Get started with DuoNB app dev with XTimer demo code" | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| -----------| (More to come...) | 
+
+| Date/Time | Industrial Event Topics | Join call or view recordings |
+| ----------- | ----------- | ----------- |
+| 14:00, March XX | “How DuoNB is going to transform smart appliance manufacturing" | To be hosted by ifanr.com |
+| -----------| (More to come...) | 
 
 
 # Call apps
