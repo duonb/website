@@ -15,7 +15,7 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 ## Febuary, 2022
 | Date/Time | Product Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| 14:00, Feb 17 | “Bootstrapping Web3 mobile apps by DuoNB principles with </br>ifanr Cloud" </br>“用 DuoNB 原则结合知晓云开发 Web3 移动应用” | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| 14:00, Feb 17 | “Bootstrapping Web3 mobile apps by DuoNB principles with ifanr Cloud" </br>“用 DuoNB 原则结合知晓云开发 Web3 移动应用” | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
 | -----------| (More to come...) | 
 
 | Date/Time | Industrial Event Topics | Join call or view recordings |
