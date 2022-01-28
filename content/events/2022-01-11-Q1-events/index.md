@@ -15,27 +15,27 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 ## Febuary, 2022
 | Date/Time | Product Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| 14:00, Feb 17 | “Bootstrapping Web3 mobile apps by DuoNB principles with </br>ifanr Cloud" | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| 14:00, Feb 17 | “Bootstrapping Web3 mobile apps by DuoNB principles with </br>ifanr Cloud" </br>“用 DuoNB 原则结合知晓云开发 Web3 移动应用” | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
 | -----------| (More to come...) | 
 
 | Date/Time | Industrial Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| 14:00, Feb 24 | “Introducing DuoNB, the Web3 Tech Alliance on Narrow Band </br>Networks" | To be hosted by UIH, DuoTech, on [*Lark*](https://larksuite.com) |
+| 14:00, Feb 24 | “Introducing DuoNB, the Web3 Tech Alliance on Narrow Band </br>Networks" </br> “DuoNB，基于窄带网络的 Web3 技术联网“ | To be hosted by UIH, DuoTech, on [*Lark*](https://larksuite.com) |
 | -----------| (More to come...) | 
 
 
 ## March, 2022
 | Date/Time | Product Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| 14:00,  March XX | “Introducing the DuoPlus Principles for Web3 app design with </br>ifanr Cloud" | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
-| 14:00, March XX | “What is *Off-cloud-first* app design?" | To be hosted by ifanr.com |
-| 14:00, March XX | “How to implement *Privacy-first* design with ifanr Cloud" | To be hosted by ifanr.com |
-| 14:00, March XX | “Get started with DuoNB app dev with XTimer demo code" | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| 14:00,  March XX | “Introducing the DuoPlus Principles for Web3 app design with </br>ifanr Cloud" </br> ”在 DuoPlus 产品框架下设计 Web3 小程序“ | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| 14:00, March XX | “What is *Off-cloud-first* app design?" </br> “什么是 ‘无云优先’ 应用设计” | To be hosted by ifanr.com |
+| 14:00, March XX | “How to implement *Privacy-first* design with ifanr Cloud" </br> "如何实现 ‘隐私优先’ 应用设计" | To be hosted by ifanr.com |
+| 14:00, March XX | “Get started with DuoNB app dev with XTimer demo code" </br> “基于 XTimer 示范应用开始 DuoNB 应用开发” | To be hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
 | -----------| (More to come...) | 
 
 | Date/Time | Industrial Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| 14:00, March XX | “How DuoNB is going to transform smart appliance manufacturing" | To be hosted by ifanr.com |
+| 14:00, March XX | “How DuoNB is going to transform smart appliance manufacturing" </br> “DuoNB 如何变革智能设备制造业” | To be hosted by ifanr.com |
 | -----------| (More to come...) | 
 
 
