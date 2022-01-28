@@ -14,7 +14,7 @@ There are many ways you can engage with DuoNB Alliance and communities, from sub
 In summary, we encourage you to engage with the communities in following ways,
 
   1. Subscribe to our [newsletter](https://buttondown.email/duonb/)
-  2. Join our mailing list / group discussion  at [DuoNB Google Group)](https://groups.google.com/g/duonb)
+  2. Join our mailing list / group discussion  at [DuoNB Google Group](https://groups.google.com/g/duonb)
   3. Track our [community events & calls](/community), add them as your calendar events
   4. Tell us what you expect to give and take in DuoNB communities, at info@duonb.org
   

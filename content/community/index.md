@@ -39,18 +39,18 @@ Currently, community calls for in Q1, 2022 are open for recommendation except th
 
 | A. Industry Series | Hosts | Schedule |
 | ----------- | ----------- | ----------- |
-| DuoPlus/DuoNB/DuoBB | Chaired by Allen You, and Chance Jiang | N/A |
-| Cross-boarder alliance and partnership | Chaired by Ali Mohammad, Ubuntu Innovation Hub </br> Co-chaired by Ryan Sy, CMO, tikoly.com | [Events for Q1 2022](/events/2022-01-11-q1-events/) |
+| DuoPlus Product Framework | Chaired by Allen You, and Chance Jiang | [Events for Q1 2022](/events/2022-01-11-q1-events/) |
+| Cross-boarder partnership | Chaired by Ali Mohammad, Ubuntu Innovation Hub </br> Co-chaired by Ryan Sy, CMO, tikoly.com | [Events for Q1 2022](/events/2022-01-11-q1-events/) |
 
 
 | B. Business Series | Hosts | Schedule |
 | ----------- | ----------- | ----------- |
-| Smart applicance trends and </br> IoP - Internet of Production | Chaired by Ryan Sy, tikoly.com </br> Co-chaired by Sunny Yang, [wikifactory.com](https://wikifactory.com) | N/A |
+| Smart applicance trends and </br> IoP - Internet of Production | Chaired by Ryan Sy, tikoly.com </br> Co-chaired by Sunny Yang, [wikifactory.com](https://wikifactory.com) | [Events for Q1 2022](/events/2022-01-11-q1-events/) |
 
 
 | C. Prodcut Series | Hosts | Schedule |
 | ----------- | ----------- | ----------- |
-| IoT tech and app design | Chaired by Alex Choi, tikoly.com </br> Co-chaired by Chance J., [ifanr Cloud](https://cloud.minapp.com) | N/A |
+| IoT tech and app design | Chaired by Alex Choi, tikoly.com </br> Co-chaired by Chance J., [ifanr Cloud](https://cloud.minapp.com) | [Events for Q1 2022](/events/2022-01-11-q1-events/) |
 
 ### Social Networks
 
@@ -67,7 +67,7 @@ The easiest contributions you can make is to let more people know about us, by s
 
 ### Meetups
 
-We are managing community events and webinars on 糖纸 (Candy Paper) MiniApp, hosted by [ifanr.com](https://ifanr.com). Our meetup platform, Candy Paper (WeChat MiniApp), facilitates everyone to share their knowledge, feedback & ideas about the product and our community. 
+We are managing community events and webinars on 糖纸 (Candy Paper) MiniApp, hosted by [ifanr.com](https://ifanr.com). Our meetup platform *Candy Paper / 糖纸* facilitates easy access to community events for knowledge-sharing, collaboration & community-driven innovation. 
 
 Track and join our meetups by scanning following QR with your WeChat!
 {{< img src="duonb-candy-paper-qr.png" >}}
@@ -75,6 +75,8 @@ Track and join our meetups by scanning following QR with your WeChat!
 You are also welcome to start your own local user group/meetup to advocate for DuoNB community and reach out to interested product makers and developers. [Let us know](https://duonb.lorg/contact/) about your course and we are happy to support you!
 
 ### Community projects
+
+We're currently incubating the 1st batch of DuoNB open source projects, covering a diverse product or tools, from MiniApp ready to use to smart home/office networking stack and utilities. Stay tuned for more!
 
 -   [Projects using DuoNB on Github](https://github.com/topics/duonb)
 
