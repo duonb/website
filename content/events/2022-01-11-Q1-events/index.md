@@ -13,7 +13,7 @@ contributors: ["Chance Jiang"]
 Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 
 ## Febuary, 2022
-| Date/Time | Industrial Event Topics | Join call or view recordings |
+| Date/Time | Industrial Event Topics | Call or recroding links |
 | ----------- | ----------- | ----------- |
 | 14:00, Feb 17 | “DuoNB 1st community call - a Web3 tech alliance for Narrow Band connected products"</br>“DuoNB，为窄带物联应用而生的 Web3 技术联盟“ | Hosted by DuoTech, ifanr on [*Lark*](https://larksuite.com) |
 | Agenda > | 14:00~14:15, Ice-breaking, introducing each other | 
@@ -22,7 +22,7 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 | | 15:00~15:20, Tech innovation opportunities around DuoPlus, ZoomQuiet |
 | | 15:20, Q & A and discussions |
 
-| Date/Time | Product Event Topics | Join call or view recordings |
+| Date/Time | Product Event Topics | Call or recroding links |
 | ----------- | ----------- | ----------- |
 | 14:00, Feb 24 | “Bootstrapping DuoNB apps with ifanr Cloud" </br>“如何利用知晓云开发 DuoNB 移动应用” | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
 | Agenda > | 14:00~14:10, Ice-breaking, introducing each other | 
@@ -31,7 +31,7 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 | | 14:45~15:45, Q&A and discussions |
 
 ## March, 2022
-| Date/Time | Product Event Topics | Join call or view recordings |
+| Date/Time | Product Event Topics | Call or recroding links |
 | ----------- | ----------- | ----------- |
 | 14:00,  March XX | “Introducing DuoPlus Principles for Web3 mobile apps on ifanr Cloud" </br> ”DuoPlus 框架 Web3 应用小程序“ | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
 | 14:00, March XX | “What is *Off-cloud-first* product design?" </br> “什么是 ‘无云优先’ 产品设计” | Hosted by ifanr.com |
@@ -39,7 +39,7 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 | 14:00, March XX | “Get started with DuoNB app dev with XTimer demo code" </br> “基于 XTimer 示范小程序开始 DuoNB 移动端开发” | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
 | -----------| (More to come...) | 
 
-| Date/Time | Industrial Event Topics | Join call or view recordings |
+| Date/Time | Industrial Event Topics | Call or recroding links |
 | ----------- | ----------- | ----------- |
 | 14:00, March XX | “How DuoNB is going to transform smart appliance manufacturing" </br> “DuoNB 如何变革智能设备制造业” | Hosted by ifanr.com |
 | -----------| (More to come...) | 
