@@ -15,20 +15,25 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 ## Febuary, 2022
 | Date/Time | Industrial Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| 14:00, Feb 17 | “Introducing DuoNB Alliance, a Web3 tech alliance for Narrow Band products"</br>“DuoNB 简介，为窄带网络应用而生的 Web3 技术联盟“ | Hosted by UIH, DuoTech, on [*Lark*](https://larksuite.com) |
-| -----------| (More to come...) | 
+| 14:00, Feb 17 | “DuoNB 1st community call - a Web3 tech alliance for Narrow Band connected products"</br>“DuoNB，为窄带物联应用而生的 Web3 技术联盟“ | Hosted by DuoTech, ifanr on [*Lark*](https://larksuite.com) |
+| Agenda > | 14:00~14:15, Ice-breaking, introducing each other | 
+| | 14:15~14:35, DuoPlus and its origin, Allen You |
+| | 14:40~15:00, DuoPlus Principles and Layer Zero Industries, Chance J. |
+| | 15:00~15:20, Tech innovation opportunities around DuoPlus, ZoomQuiet |
+| | 15:20, Q & A and discussions |
 
 | Date/Time | Product Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
 | 14:00, Feb 24 | “Bootstrapping DuoNB apps with ifanr Cloud" </br>“如何利用知晓云开发 DuoNB 移动应用” | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
-| -----------| (More to come...) | 
-
-
+| Agenda > | 14:00~14:10, Ice-breaking, introducing each other | 
+| | 14:00~14:20, About ifanr Cloud / 知晓云简介，Ms Du, [ifanr Cloud](https://minapp.com/) |
+| | 14:20~14:45, Develop next gen mobile apps and IoT systems / 面向物联应用的小程序开发, Chance J. Deputy Chair, DuoNB Alliance |
+| | 14:45~15:45, Q&A and discussions |
 
 ## March, 2022
 | Date/Time | Product Event Topics | Join call or view recordings |
 | ----------- | ----------- | ----------- |
-| 14:00,  March XX | “Introducing the DuoPlus Principles for Web3 app design with ifanr Cloud" </br> ”在 DuoPlus 产品框架下设计 Web3 小程序“ | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| 14:00,  March XX | “Introducing DuoPlus Principles for Web3 mobile apps on ifanr Cloud" </br> ”DuoPlus 框架 Web3 应用小程序“ | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
 | 14:00, March XX | “What is *Off-cloud-first* product design?" </br> “什么是 ‘无云优先’ 产品设计” | Hosted by ifanr.com |
 | 14:00, March XX | “How to implement *Privacy-first* design with ifanr Cloud" </br> "如何实现 ‘隐私优先’ 产品设计" | Hosted by ifanr.com |
 | 14:00, March XX | “Get started with DuoNB app dev with XTimer demo code" </br> “基于 XTimer 示范小程序开始 DuoNB 移动端开发” | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
