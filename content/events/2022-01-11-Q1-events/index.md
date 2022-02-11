@@ -24,7 +24,7 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 
 | Date/Time | Product Event Topics | Call or recroding links |
 | ----------- | ----------- | ----------- |
-| 14:00, Feb 24 | “Bootstrapping DuoNB apps with ifanr Cloud" </br>“如何利用知晓云开发 DuoNB 移动应用” | Hosted by ifanr on [*Lark*](https://larksuite.com) |
+| 14:00, Feb 24 | “Bootstrapping DuoNB Web3 apps with ifanr Cloud" </br>“如何利用知晓云开发 DuoNB Web3 移动应用” | Hosted by ifanr on [*Lark*](https://larksuite.com) |
 | Agenda > | 14:00~14:10, Ice-breaking, introducing each other | 
 | | 14:00~14:20, About ifanr Cloud / 知晓云简介，Ms Du, [ifanr Cloud](https://minapp.com/) |
 | | 14:20~14:45, Develop next gen mobile apps and IoT systems / 面向物联应用的小程序开发, Chance J. Deputy Chair, DuoNB Alliance |
@@ -33,10 +33,10 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 ## March, 2022
 | Date/Time | Product Event Topics | Call or recroding links |
 | ----------- | ----------- | ----------- |
-| 14:00,  March XX | “Introducing DuoPlus Principles for Web3 mobile apps on ifanr Cloud" </br> ”DuoPlus 框架 Web3 应用小程序“ | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
-| 14:00, March XX | “What is *Off-cloud-first* product design?" </br> “什么是 ‘无云优先’ 产品设计” | Hosted by ifanr.com |
+| 14:00,  March XX | “Introducing DuoPlus Principles for Web3 apps" </br> ”基于 DuoPlus 框架开发 Web3 应用“ | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| 14:00, March XX | “What is *Off-cloud-first* product design?" </br> “什么是 ‘离云优先’ 产品设计” | Hosted by ifanr.com |
 | 14:00, March XX | “How to implement *Privacy-first* design with ifanr Cloud" </br> "如何实现 ‘隐私优先’ 产品设计" | Hosted by ifanr.com |
-| 14:00, March XX | “Get started with DuoNB app dev with XTimer demo code" </br> “基于 XTimer 示范小程序开始 DuoNB 移动端开发” | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
+| 14:00, March XX | “Get started with DuoNB app dev with XTimer demo code" </br> “基于 XTimer 示范小程序开始 DuoNB Web3 应用开发” | Hosted by ifanr.com, on [*Lark*](https://larksuite.com) |
 | -----------| (More to come...) | 
 
 | Date/Time | Industrial Event Topics | Call or recroding links |
