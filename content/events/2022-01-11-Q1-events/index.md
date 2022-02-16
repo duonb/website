@@ -15,7 +15,7 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 ## Febuary, 2022
 | Date/Time | Industrial Event Topics | Call or recroding links |
 | ----------- | ----------- | ----------- |
-| 14:00, Feb 17 | “DuoNB 1st community call - a Web3 tech alliance for Narrow Band connected products"</br>“DuoNB，为窄带物联应用而生的 Web3 技术联盟“ | Hosted by DuoNB Alliance on [*Lark*](https://larksuite.com) |
+| 14:00, Feb 17 | “DuoNB 1st community call - a Web3 tech alliance for Narrow Band connected products"</br>“DuoNB，为窄带物联应用而生的 Web3 技术联盟“ | Hosted by DuoNB Alliance on [*Lark/Feishu*](https://larksuite.com), Meeting link: [https://vc.feishu.cn/j/265576109](https://vc.feishu.cn/j/265576109) |
 | Agenda > | 14:00~14:15, Ice-breaking, introducing each other | 
 | | 14:15~14:35, DuoPlus and its origin, Allen You |
 | | 14:40~15:00, DuoPlus Principles and Layer Zero Industries, Chance J. |
