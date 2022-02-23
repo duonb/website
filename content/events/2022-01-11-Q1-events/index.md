@@ -24,7 +24,7 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 
 | Date/Time | Product Event Topics | Call or recording |
 | ----------- | ----------- | ----------- |
-| 14:00, Feb 24 | “Bootstrapping DuoNB Web3 apps with ifanr Cloud" </br>“如何利用知晓云开发 DuoNB Web3 移动应用” | Hosted by ifanr on [*Lark*](https://larksuite.com) |
+| 14:00, March 3rd | “Bootstrapping DuoNB Web3 apps with ifanr Cloud" </br>“如何利用知晓云开发 DuoNB Web3 移动应用” | Hosted by ifanr on [*Lark*](https://larksuite.com) |
 | Agenda > | 14:00~14:10, Ice-breaking, introducing each other | 
 | | 14:00~14:20, About ifanr Cloud / 知晓云简介，Ms Du, [ifanr Cloud](https://minapp.com/) |
 | | 14:20~14:45, Develop next gen mobile apps and IoT systems / 面向物联应用的小程序开发, Chance J. Deputy Chair, DuoNB Alliance |
