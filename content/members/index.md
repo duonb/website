@@ -19,7 +19,7 @@ In less than two months after we decided to build the alliance in September 2021
 - Guo Xin Wei / 国芯微 (Shenzhen), PLCIoT chipset maker based in Shenzhen.
 - Shenzhen Intelli-Engine Tech LLC (Shenzhen)
 - [Wikifactory (China)](https://wikifactory.com), the Internet of Production platform and the place where great ideas become even better products. We’ve embedded an agile hardware product development [Workspace](https://wikifactory.com/workspace) within a very different type of social platform.
-- Shunde Tikoly LLC, Manufacturing as a Service startup specialized on ODM/OEM services on connected appliances.
+- Tikoly LLC (Shunde China), Manufacturing-as-a-Service startup specialized on connected appliances.
 
 ## Ecosystem Members
 - [ifanr Cloud / 知晓云](https://cloud.minapp.com), the serverless cloud designed to accelerate MiniApp development.
