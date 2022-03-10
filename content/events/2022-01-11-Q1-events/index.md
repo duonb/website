@@ -15,7 +15,7 @@ Unless noted otherwise, all event time is at GMT+8 (Beijing time).
 ## March, 2022
 | Date/Time | Product Event Topics | Call or recording |
 | ----------- | ----------- | ----------- |
-| 15:00, March 10th | “DuoNB community catch-up call" </br>“如何利用知晓云开发 DuoNB Web3 移动应用” | Hosted on [*Zoom call*](https://us02web.zoom.us/j/82131390544) |
+| 15:00, March 10th | “DuoNB community catch-up call" | Hosted on [*Zoom call*](https://us02web.zoom.us/j/82131390544) |
 | Agenda > | 15:00~15:10, Ice-breaking, introducing each other | |
 | | 15:10~16:00, Casual group sharing | |
 | | 16:00, End of call | |
