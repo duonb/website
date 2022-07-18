@@ -1,7 +1,7 @@
 # for local testing
-baseurl = "/"
+#baseurl = "/"
 # for production
-#baseurl = "https://duonb.org/"
+baseurl = "https://duonb.org/"
 
 canonifyURLs = false
 disableAliases = true
