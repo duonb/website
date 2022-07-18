@@ -33,4 +33,6 @@ and navigate to http://localhost:1313
 
 ## Deploy
 
-Pushing to `main` will trigger a github actions workflow that deploys the website via the `gh-pages` branch to github pages.:
+Pushing to `main` will trigger a github actions workflow that deploys the website via the `gh-pages` branch to github pages.
+
+Test update to trigger autobuld.
