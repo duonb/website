@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="200px" viewBox="0 0 750 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>duonb-header-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="duonb-header-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle" x="0" y="0" width="200" height="200" rx="100"></rect>
+            <text id="铎" font-family="NotoSerifSC-Bold, Noto Serif SC" font-size="150" font-weight="bold" fill="#4A4A4A">
+                <tspan x="27" y="158">铎</tspan>
+            </text>
+            <text id="DuoNB" font-family="NotoSerifSC-Bold, Noto Serif SC" font-size="150" font-weight="bold" fill="#4A4A4A">
+                <tspan x="189" y="158">DuoNB</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
