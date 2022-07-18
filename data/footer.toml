@@ -6,11 +6,11 @@
 
 [[categories.entries]]
   name = "Events"
-  url = "/events"
+  url = "/docs/community/events/"
 
 [[categories.entries]]
   name = "Community"
-  url = "/community"
+  url = "/docs/community/calls/"
 
 [[categories.entries]]
   name = "Members"
@@ -26,14 +26,11 @@
 
 [[categories.entries]]
   name = "Contact"
-  url = "/contact"
+  url = "/docs/contact/"
 
 #[[categories.entries]]
 #  name = "FAQ"
 #  url = "/faq"
-
-[[categories]]
-  name = "Resources"
 
 [[categories.entries]]
   name = "GitHub"

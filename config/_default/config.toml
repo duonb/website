@@ -1,13 +1,21 @@
-baseurl = "https://duonb.org/"
+# for local testing
+baseurl = "/"
+# for production
+#baseurl = "https://duonb.org/"
+
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
 paginate = 7
 rssLimit = 10
+
+# Multilingual
+defaultContentLanguage = "en"
+disableLanguages = ["de", "nl"]
+# defaultContentLanguageInSubdir = true
 
 # add redirects/headers
 [outputs]
@@ -42,28 +50,10 @@ isPlainText = true
 noUgly = true
 rel  = "sitemap"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      linkify = false
-    [markup.goldmark.parser]
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-      [markup.goldmark.parser.attribute]
-        block = true
-        title = true
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    codeFences = false
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = false
-    style = "dracula"
-    tabWidth = 4
+[caches]
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = "10s"
 
 [sitemap]
   changefreq = "weekly"
@@ -72,21 +62,26 @@ rel  = "sitemap"
 
 [taxonomies]
   contributor = "contributors"
+  category = "categories"
+  tag = "tags"
 
-[RelPermalinks]
+[permalinks]
   blog = "/blog/:title/"
-  events = "/events/:title/"
+# docs = "/docs/1.0/:sections[1:]/:title/"
 
-[module]
-  [[module.mounts]]
-    source = "assets"
-    target = "assets"
-  [[module.mounts]]
-    source = "static"
-    target = "static"
-  [[module.mounts]]
-    source = "node_modules/flexsearch"
-    target = "assets/js/vendor/flexsearch"
-  [[module.mounts]]
-    source = "node_modules/katex"
-    target = "assets/js/vendor/katex"
+[minify.tdewolff.html]
+  keepWhitespace = false
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+    [[related.indices]]
+    name = "categories"
+    weight = 100
+    [[related.indices]]
+    name = "tags"
+    weight = 80
+    [[related.indices]]
+    name = "date"
+    weight = 10

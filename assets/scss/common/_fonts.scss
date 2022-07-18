@@ -1,71 +1,95 @@
-/* jost-regular - latin */
+/* NotoSansSC-400 regular */
 @font-face {
-  font-family: "Jost";
+  font-family: "Noto Sans SC";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/jost/jost-v4-latin-regular.woff2") format("woff2"),
-    url("fonts/vendor/jost/jost-v4-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    // Google Fonts Noto Sans SC
+    local("Noto Sans SC"),   // Full Name
+    local("NotoSansSC-Regular"),           // PostScript name
+    // indestructible Inter*
+    local("NotoSansSC* Regular"),
+    local("NotoSansSC-Regular"),
+    url("fonts/vendor/NotoSansSC/NotoSansSC-Regular.otf") format("otf"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* jost-500 - latin */
+/* NotoSansSC-500 medium */
 @font-face {
-  font-family: "Jost";
+  font-family: "Noto Sans SC";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/jost/jost-v4-latin-500.woff2") format("woff2"),
-    url("fonts/vendor/jost/jost-v4-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    // Google Fonts Noto Sans SC
+    local("Noto Sans SC Medium"),
+    local("Noto Sans SC Medium"),
+    // indestructible Noto*
+    local("Noto Sans* Medium"),
+    local("NotoSansSC-Medium"),
+    url("fonts/vendor/NotoSansSC/NotoSansSC-Medium.otf") format("otf"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* jost-700 - latin */
+/* NotoSansSC-700 bold */
 @font-face {
-  font-family: "Jost";
+  font-family: "Noto Sans SC";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/jost/jost-v4-latin-700.woff2") format("woff2"),
-    url("fonts/vendor/jost/jost-v4-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    // Google Fonts Noto Sans SC
+    local("Noto Sans SC Bold"),
+    local("NotoSansSC-Bold"),
+    // indestructible Noto Sans*
+    local("Noto* Bold"),
+    local("NotoSansSC-Bold"),
+    url("fonts/vendor/NotoSansSC/NotoSansSC-Bold.otf") format("otf"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* jost-italic - latin */
+/* NotoSansSC-500 - Light - latin */
 @font-face {
-  font-family: "Jost";
+  font-family: "Noto Sans SC";
   font-style: italic;
   font-weight: 400;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/jost/jost-v4-latin-italic.woff2") format("woff2"),
-    url("fonts/vendor/jost/jost-v4-latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    // Google Fonts Noto Sans SC
+    local("Noto Sans SC Light"),
+    local("NotoSansSC-Light"),
+    // indestructible Noto*
+    local("Noto* Italic"),
+    local("NotoSansSC-Italic"),
+    url("fonts/vendor/NotoSansSC/NotoSansSC-Light.otf") format("otf"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* jost-500italic - latin */
+/* noto-black-italic - latin */
 @font-face {
-  font-family: "Jost";
+  font-family: "Noto Sans SC";
   font-style: italic;
   font-weight: 500;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/jost/jost-v4-latin-500italic.woff2") format("woff2"),
-    url("fonts/vendor/jost/jost-v4-latin-500italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    // Google Fonts Noto Sans SC
+    local("Noto Sans SC Black Italic"),
+    local("NotoSansSC-Black"),
+    // indestructible Noto*
+    local("Noto* Black Italic"),
+    local("NotoSansSC-BlackItalic"),
+    url("fonts/vendor/NotoSansSC/NotoSansSC-Black.otf") format("otf"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* jost-700italic - latin */
+/* noto-700-italic - latin */
 @font-face {
-  font-family: "Jost";
+  font-family: "Noto Sans SC";
   font-style: italic;
   font-weight: 700;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/jost/jost-v4-latin-700italic.woff2") format("woff2"),
-    url("fonts/vendor/jost/jost-v4-latin-700italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    // Google Fonts Noto
+    local("Noto Sans SC Bold Italic"),
+    local("NotoSansSC-Bold-Italic"),
+    // indestructible Noto*
+    local("Noto* Bold Italic"),
+    local("NotoSansSC-BoldItalic"),
+    url("fonts/vendor/NotoSansSC/NotoSansSC-Bold.otf") format("otf"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
