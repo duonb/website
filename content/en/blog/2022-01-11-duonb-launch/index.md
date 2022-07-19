@@ -9,7 +9,7 @@ images: ["duonb-launch-party.png"]
 contributors: ["DuoNB Team"]
 ---
 
-> DuoNB Alliance is being boostrapped by a small but dedicated group of professionals from a diverse practices. We have entreprenures, veteran product & product managers, senior software architects, networking engineerings, VCs ... who's been working on smart home appliances and systems, connected products, large scale software project, and telco-grade networking technologies.
+> DuoNB Alliance / 物联技术开放联盟 is being boostrapped by a small but dedicated group of professionals from a diverse practices. We have entreprenures, veteran product & product managers, senior software architects, networking engineerings, VCs ... who's been working on smart home appliances and systems, connected products, large scale software project, and telco-grade networking technologies.
 
 > What are binding us as a community are the [*DuoNB Principles.*]({{< ref "/#duonb-principles" >}} "DuoNB Principles") under which connected appliances or products should be built. So that we, as human beings, can build safter, fairer, and better connected products in and around where we live and work.
 
