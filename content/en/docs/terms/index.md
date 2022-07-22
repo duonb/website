@@ -1,10 +1,11 @@
 ---
 title: "Terms and Conditions"
 description: "Terms and Conditions"
-date: 2021-06-17T14:52:00+02:00
-lastmod: 2021-06-17T14:52:00+02:00
+date: 2022-07-17T14:52:00+02:00
+lastmod: 2022-07-17T14:52:00+02:00
 draft: false
 images: []
+toc: false
 ---
 
 # Terms and Conditions
@@ -162,7 +163,5 @@ If any term of this Agreement is not enforceable, this will not affect any other
 ### 10.11 Contracting Party, Choice of Law and Location for Resolving Disputes
 
 The failure of DuoNB to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitute the entire agreement between you and DuoNB and govern your use of the Service, superseding any prior agreements between you and DuoNB (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under Swiss law.
-
----
 
 Last Updated: December, 2021 (2021.v5)

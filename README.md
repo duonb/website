@@ -1,5 +1,4 @@
-DuoNB Website
-==================
+# DuoNB Website
 
 The website uses [Hugo](https://github.com/gohugoio/hugo) and the [doks theme](https://github.com/h-enk/doks).
 

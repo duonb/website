@@ -25,8 +25,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Check for linting errors
-        run: npm test
+      - name: Check for script linting errors
+        run: npm run lint:scripts
+
+      - name: Check for style linting errors
+        run: npm run lint:styles 
 
       - name: Build production website
         run: npm run build
