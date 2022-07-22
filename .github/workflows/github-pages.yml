@@ -1,21 +1,26 @@
-name: GitHub Pages
+# Deploy Hugo site
+
+name: Deploy Hugo site
 
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
-  pull_request:
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-20.04
     concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+      group: ${{ github.workflow }}-${{ github.ref }}  
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          cache: 'npm'
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -23,12 +28,18 @@ jobs:
           hugo-version: '0.101.0'
           extended: true
 
-      - name: Build
-        run: hugo --minify
+      - name: Install dependencies
+        run: npm install
 
-      - name: Deploy
+      - name: Check for linting errors
+        run: npm test
+
+      - name: Build production website
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
